@@ -7,6 +7,7 @@ There are 2 text fields. And a button. To use it:
 1. Copy the github.com/... link to your clipboard
 2. Click the button "Fix this Github Link"
 3. The app will fix your link.
-   a) The original link will be displayed in top textbox.
-   b) The fixed link will be displayed in bottom textbox.
-   c) the fixed link will be copied to your clipboard.
+   
+   a) The original link will be displayed in top textbox.  
+   b) The fixed link will be displayed in bottom textbox.  
+   c) the fixed link will be copied to your clipboard.  
