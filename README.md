@@ -3,6 +3,7 @@ Hello this is a very simple app that is meant to change a link from standard git
 
 ## How does it work?
 There are 2 text fields. And a button. To use it:
+![image](https://github.com/user-attachments/assets/1b6bbc6a-bda3-445d-9353-9e9a988bb14b)
 
 1. Copy the github.com/... link to your clipboard
 2. Click the button "Fix this Github Link"
