@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.33130.400
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp4", "WpfApp4.csproj", "{20FBFF67-002E-485D-85C2-E749150797DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Github Link Fixer", "Github Link Fixer.csproj", "{20FBFF67-002E-485D-85C2-E749150797DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
