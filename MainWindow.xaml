@@ -1,0 +1,15 @@
+﻿<Window x:Class="WpfApp4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp4"
+        mc:Ignorable="d"
+        Title="Github Link Fixer" Height="206" Width="720">
+    <Grid Margin="0,0,5,0" Height="175" VerticalAlignment="Top">
+        <Button Content="Fix This Github URL" Margin="10,100,10,0" Click="Button_Click" Height="65" VerticalAlignment="Top"/>
+        <TextBox x:Name="sampleurl" Margin="10,10,10,125" TextWrapping="Wrap" Text="Original Clipboard" TextChanged="TextBox_TextChanged"/>
+        <TextBox x:Name="newurl" Height="40" Margin="10,55,10,0" TextWrapping="Wrap" Text="Fixed Clipboard" VerticalAlignment="Top" TextChanged="TextBox_TextChanged"/>
+
+    </Grid>
+</Window>
